@@ -1,0 +1,32 @@
+# 📑 Phishing PDF Analysis – Contract_Agreement
+
+![ANY.RUN Report Screenshot](contract-agreement-report.png)
+
+🔍 What This File Is
+
+- Name: Contract_Agreement9458250728_2754396385.pdf
+- Type: PDF file (1 page)
+- Date Analyzed: June 23, 2025
+- Tool Used: ANY.RUN
+- Verdict: 🟥 Malicious activity
+
+🔗 Report Link
+
+👉 [View full report on ANY.RUN](https://app.any.run/tasks/275fade2-04c1-453b-908f-a7c09ad203a0)
+
+ 🛑 Why It’s Dangerous
+
+- This file pretends to be a **contract**, which is often used to trick people.
+- It may contain **dangerous links** or code that leads to a phishing website.
+- It has no trusted source or safe content.
+
+ 🔐 File Details
+
+SHA-25: `b51ccaf76d938aa179a6b4c86f774585211590ebb50ec17c42909415a6f84fc`
+MD5: `5ef8fa54dd902ce9e8f395b2cd7a308`
+Tags: phishing, fake document, pdf |
+
+ ✅ Summary
+
+This PDF is fake and used in phishing attacks. It tries to get the user to open it and click on hidden links. Do not trust unknown contract files sent by email.
+

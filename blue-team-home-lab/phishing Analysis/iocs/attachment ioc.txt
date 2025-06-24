@@ -1,0 +1,18 @@
+Domains:
+- omercadeenvio[.]site
+- kadantconstruction[.]com
+- hntos[.]top
+
+IP Addresses:
+- 141.94.102.188
+- 172.67.220.74
+- 172.67.189.182
+- 65.101.149.131
+- 29.55.104.172
+
+Hashes:
+- c168d322e48f552004b4abefe1b9e2dbb4524f1d8dc77804f11bea7f834a
+- ebd4ee2ae9d0e8a3331b8e0dc22a90d21329e03f60c32ae812ef838a
+- cc707f863b4b62bb28fe3c7ce9112b8ce33622ec114f8c6acfbb13f74
+- 498da07c3e43de76bd1c0f3a10b893d5a5a0b0096b0a0dfd10b6f7c737
+- f987e18d5b1839ba801212032e7e6dd927bae9858bc3ae6b122d9fadf2b1bf4

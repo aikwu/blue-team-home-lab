@@ -1,0 +1,54 @@
+# 🔍 QR Code Phishing Screenshot Analysis
+
+![QR Code Phishing Screenshot](qr-phish-example.png)
+
+# 🧾 QR Code Image Analysis – ANY.RUN Report
+
+![QR Phishing Screenshot](qr-phish-example.png)
+
+## 🔍 Overview
+
+This analysis was performed on a suspicious image containing a QR code. The file was submitted to [ANY.RUN](https://any.run), which identified **malicious activity** associated with the image.
+
+- File name: Screenshot-2025-06-22-185712.png
+- Date analyzed: June 23, 2025
+- OS Environment: Windows 10 Pro (19044)
+
+### ✅ ANY.RUN Verdict
+
+> 🟥 Malicious Activity
+
+- Full Report:  
+  [ANY.RUN Report Link](https://app.any.run/tasks/dd0032da-5736-4fd4-a49e-ea4f7b96b280)
+- Tags:  
+  `qrcode`, `phishing`, `phish-url`, `possible-phishing`, `obfuscated-js`, `mamba`
+
+---
+
+## 📁 Technical Details
+
+
+ MIME type:  `image/png`
+ Size: 367 × 292 px
+ Hash (SHA-256): `c168d322e465f2004ab4abefe1b9a2d62db4524f1d8d0c7788c411bea7a834a` 
+ MD5: `8DAB3126D51857ACDF4F37E14177D6E`
+---
+
+## 🧠 Notes
+
+- The image appears to be used in **QR phishing ("quishing")**.
+- QR codes may link to phishing pages or auto-download malware when scanned.
+- This file may be part of a phishing campaign using **obfuscated JavaScript** or **credential harvesting** techniques.
+
+---
+
+## 📎 Related Files
+
+- [IOC List](../iocs/phishing-iocs.txt)
+- [QR Analysis Summary](../analysis/qr-analysis.txt)
+
+## 💡 Why This is Dangerous
+
+- Victims scan the QR with their phone and land on a fake login page.
+- Attackers steal usernames and passwords entered on that page.
+- This type of attack is called **“Quishing”** (QR phishing).

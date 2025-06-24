@@ -1,0 +1,12 @@
+# Contract_Agreement PDF IOCs
+
+File:
+Name: Contract_Agreement9458250728_2754396385.pdf
+SHA-256: b51ccaf76d938aa179a6b4c86f774585211590ebb50ec17c42909415a6f84fc
+
+Dropped files:
+1. SHA-256: 6840e3431a2553f4653a74a808b8ce54e2d07bee67df184a704a9fb38ca78c8
+2. SHA-256: 65ec8978b377665b89e2e2a4f18e36a1fc531308c9ed38d9f1f1280068e44a
+
+Suspicious URL:
+https://www.google.com/url?q=https://marladesellc.com/
